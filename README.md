@@ -28,7 +28,7 @@ I'm interested in creative computing and data visualisation.
 :books: **Education:** 
 
 <a href="https://www.arts.ac.uk/" title="UAL"><img src="icons/ual.png" /></a>
-<a href="https://www.arts.ac.uk/](https://www.kcl.ac.uk/" title="KCL"><img src="icons/kcl.png" /></a>
+<a href="https://www.kcl.ac.uk/" title="KCL"><img src="icons/kcl.png" /></a>
 
 
 </details>
