@@ -1,8 +1,8 @@
 ### rebecca-rebecca-rebecca
 
-![header_stereo](https://github.com/rebecca-rebecca-rebecca/rebecca-rebecca-rebecca/assets/162625723/d39f0e91-77d5-4f6a-a493-8492d58863b4)
+<img src="images/header_stereo.png"  />
 
-Greetings :wave:
+Greetings :robot:
 
 I am based in the UK studying data science.
 
