@@ -1,12 +1,5 @@
 ### rebecca-rebecca-rebecca
 
-<img src="images/header_stereo.png"  />
-
-Greetings :robot:
-
-I am based in the UK studying data science.
-
-I'm interested in creative computing and data visualisation. 
 
 ---
 
